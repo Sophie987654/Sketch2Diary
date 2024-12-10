@@ -67,3 +67,15 @@
   - `man/` (100 라벨)
   - `woman/` (100 라벨)
   - `house/` (100 라벨)
+ 
+### 성과
+
+---
+
+- 본선 진출
+
+### 시연영상
+
+---
+
+[프로젝트 시연영상](https://youtube.com/shorts/EM6FSgSHW-o?si=JJpyTFP6e_1mK3TE)
